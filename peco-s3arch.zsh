@@ -7,3 +7,5 @@ function peco-s3arch() {
     zle redisplay
   fi
 }
+zle -N peco-s3arch
+bindkey '^j' peco-s3arch
