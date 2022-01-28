@@ -1,7 +1,7 @@
 # peco-s3arch
 
 ## How to set up
-First of all, you need to install [awscli](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) and [peco](https://github.com/peco/peco).
+First of all, you use Zshell and need to install [awscli](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) and [peco](https://github.com/peco/peco).
 
 ### Manually install(git clone)
 
