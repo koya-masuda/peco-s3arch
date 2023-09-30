@@ -1,7 +1,7 @@
 # peco-s3arch
 
 ## How to set up
-First of all, you use Zshell and need to install [awscli](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) and [peco](https://github.com/peco/peco).
+First of all, you use zsh and need to install [awscli](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) and [peco](https://github.com/peco/peco).
 
 ### Manually install(git clone)
 
@@ -22,7 +22,7 @@ source /path/to/peco-s3arch
 Add following line to `.zshrc`.
 
 ```
-zinit light masuda58/peco-s3arch
+zinit light koya-masuda/peco-s3arch
 ```
 
 And then reload configure file.
